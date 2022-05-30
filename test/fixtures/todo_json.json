@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "title": "Todo 1",
+        "subTitle": "This is a todo",
+        "isDone": false,
+        "createdAt": 1653884620962
+    },
+    {
+        "id": "2",
+        "title": "Todo 2",
+        "subTitle": "This is a todo",
+        "isDone": false,
+        "createdAt": 1653884620962
+    },
+    {
+        "id": "3",
+        "title": "Todo 3",
+        "subTitle": "This is a todo",
+        "isDone": true,
+        "createdAt": 1653884620962
+    },
+    {
+        "id": "4",
+        "title": "Todo 4",
+        "subTitle": "This is a todo",
+        "isDone": false,
+        "createdAt": 1653884620962
+    }
+]
