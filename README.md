@@ -18,7 +18,6 @@ flutter test
 flutter run
 ```
 
-### Note
-```text
+### Note:
+
 I thought Manabie wanted to see code style and adaptability so I made a basic todo app, applying TDD and redux (this is my first time using redux, my strengths are BLoC and GetX).
-```
