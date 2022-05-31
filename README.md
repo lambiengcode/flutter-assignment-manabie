@@ -1,5 +1,9 @@
 ## Assignment Manabie
 
+### Note:
+- Important: Im run this project on ***Flutter 2.8.1***
+- I thought Manabie wanted to see code style and adaptability so I made a basic todo app, applying TDD and redux (this is my first time using redux, my strengths are BLoC and GetX).
+
 ### How I can run it?
 - Step 1: Clone repository
 - Step 2: Run below command in your terminal for setup environment & project:
@@ -17,10 +21,6 @@ flutter test
 ```terminal
 flutter run
 ```
-
-### Note:
-
-I thought Manabie wanted to see code style and adaptability so I made a basic todo app, applying TDD and redux (this is my first time using redux, my strengths are BLoC and GetX).
 
 ### References
 
